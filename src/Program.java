@@ -3,6 +3,7 @@ public class Program {
 
         System.out.println("Hello World!");
         System.out.println("Hello maor!");
+        System.out.println("Hello bar!");
 
     }
 }
